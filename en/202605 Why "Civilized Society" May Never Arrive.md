@@ -1,6 +1,6 @@
 # Why "Civilized Society" May Never Arrive
 
-civility is not a choice. It is a condition. And that condition keeps getting further away.
+-Civility is not a choice. It is a condition. And that condition keeps getting further away.
 
 An ancient Chinese text, *Guanzi*, written around the 7th century BC, offered a deceptively simple theory of civilization: *fill the granaries first, and people will learn manners. Clothe and feed them, and they will understand honor.*
 
