@@ -1,6 +1,6 @@
 # Why "Civilized Society" May Never Arrive
 
--Civility is not a choice. It is a condition. And that condition keeps getting further away.
+civility is not a choice. It is a condition. And that condition keeps getting further away.
 
 An ancient Chinese text, *Guanzi*, written around the 7th century BC, offered a deceptively simple theory of civilization: *fill the granaries first, and people will learn manners. Clothe and feed them, and they will understand honor.*
 
@@ -78,11 +78,30 @@ All three locks broken. The result is a degree of concentration without historic
 
 ## IV. So When Does "Civilized Society" Arrive
 
-*Guanzi*'s logic rests on a hidden assumption: that granaries can be filled. Fill them, and people stop scrambling. Stop scrambling, and they find the space to become civilized.
+*Guanzi*'s logic rests on a hidden assumption: that granaries can be filled. Fill them,
+and people stop scrambling. Stop scrambling, and they find the space to become civilized.
 
-But if the granary has no ceiling — if "full" has been engineered out of the system — then the filling never ends. Not because resources are scarce, but because the rules of the game have changed.
+But if the granary has no ceiling — if "full" has been engineered out of the system —
+then the filling never ends. Not because resources are scarce, but because the rules of
+the game have changed.
 
-Jesus said: store your treasure in heaven. The Church said yes, and enclosed a third of Europe's land. The emperor said: you cannot exceed me. His successors said: there is no emperor. *Guanzi* said: fill the granaries and manners will follow. Capital said: there is no finish line.
+There is a second failure built into *Guanzi*'s logic — one the text never states, but
+arithmetic will. Whether granaries can be filled depends not only on whether there is
+enough in total, but on whether the structure of distribution permits it. If 0.01% of
+the population has captured enough accumulated wealth to lift billions out of poverty —
+and continues to capture a disproportionate share of every year's new growth — then the
+granaries of the bottom 50% are not merely unfilled. They are structurally designed never
+to fill. This is not a scarcity problem. It is a problem of wealth flowing continuously
+and preferentially toward the top. In that structure, *"fill the granaries and manners
+will follow"* is not a promise waiting to be kept. It is a promissory note drawn on an
+account that the rules of the system guarantee will never have sufficient funds. The
+condition cannot be met — not because the resources don't exist, but because the
+architecture ensures they don't arrive.
+
+Jesus said: store your treasure in heaven. The Church said yes, and enclosed a third of
+Europe's land. The emperor said: you cannot exceed me. His successors said: there is no
+emperor. *Guanzi* said: fill the granaries and manners will follow. Capital said: there
+is no finish line.
 
 Manners are still waiting.
 
