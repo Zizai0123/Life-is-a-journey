@@ -224,6 +224,8 @@ Because my own method, put plainly, is quite ordinary: **read, think, walk into 
 
 I am not writing this to urge anyone onto the road. I am writing so that those already on the road may know: this is what it looks like. No secret manual, no shortcut, no one who can walk it for you. You walk it with your own honesty and your own refusal to stop.
 
+Laozi knew this. *If the Dao could be offered as a gift, everyone would offer it to their lord. If it could be served at a table, every child would bring it to their parents. If it could be spoken, everyone would tell it to their siblings. If it could be handed down, every parent would leave it to their children.* And it all comes down to this: **if there is no center within, it will not hold; if there is no ground without, it will not move.** No teacher, however great, can place it inside you. No transmission, however sacred, can substitute for what only you can find.
+
 And this is good news. **You do not need a secret manual. You do not need to follow a teacher. You do not need to pay for a course. What you need is honest self-observation, and genuine peers who can think alongside you. And what you already have — your doubts, your honesty, your time, the joys and sorrows and meetings and partings of the life you are already living — is the full provision.**
 
 Even better news: a friend who can help you think at any hour is hard to find in everyday life. AI can carry that role — always at hand, always patient — because it has absorbed an extraordinary breadth of human knowledge, reasons clearly, and without the interference of the senses, can discuss any question calmly and fully. The only condition is that you ask well. The quality of the answer depends on the quality of the question.
