@@ -238,6 +238,8 @@ Laozi: in pursuit of learning, every day something is gained; in pursuit of the 
 
 Mencius: sincerity is the way of heaven; the pursuit of sincerity is the way of human beings. The goal is sincerity — a state of being true, without performance. The path is turning back toward oneself, again and again, and asking honestly: is what I am doing real? No leaving the world. No miracles. No lineage to join.
 
+Confucius described what it looks like near the end of the road: follow the heart's desire without crossing the line. Once the rules are inside you, the words that described them can be forgotten. There is no line to remember — because you no longer need to. A person who has thinned ignorance and loosened ego-clinging will find law and government almost imperceptible. Not because they ignore these things. Because they already live inside the space those things were built to protect.
+
 We are all walking. There is no need to cling to an endpoint — and in fact there cannot be one, whether in breaking ignorance (learning has no shore) or in breaking ego-clinging (the neural hardware remains). We can only keep walking.
 
 ---
